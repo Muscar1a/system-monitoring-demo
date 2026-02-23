@@ -1,0 +1,5 @@
+joblib
+scikit-learn
+fastapi
+prometheus_client
+requests
